@@ -9,43 +9,28 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>奇思妙想，让生活好玩起来！</description>
-    <pubDate>Wed, 16 Sep 2020 05:49:32 GMT</pubDate>
+    <pubDate>Wed, 16 Sep 2020 06:34:53 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title>前言</title>
       <link>http://example.com/2020/09/16/%E5%89%8D%E8%A8%80/</link>
       <guid>http://example.com/2020/09/16/%E5%89%8D%E8%A8%80/</guid>
-      <pubDate>Wed, 16 Sep 2020 05:49:32 GMT</pubDate>
+      <pubDate>Wed, 16 Sep 2020 06:09:14 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;　　一直说想干这干那，但总是三天打鱼两天晒网的；&lt;br&gt;　　说要发展的兴趣爱好，三分钟热度之后，就再不想碰了；&lt;br&gt;　　从高中到现在，看过的小说也不少了，到头来什么也没落下，那些日子就像是虚度了一样；&lt;br&gt;　　由于想法比较跳脱，倒是总有些稀奇古怪的想法，但总是个念头，也</description>
+        
       
       
+      
+      <content:encoded><![CDATA[<p>　　一直说想干这干那，但总是三天打鱼两天晒网的；<br>　　说要发展的兴趣爱好，三分钟热度之后，就再不想碰了；<br>　　从高中到现在，看过的小说也不少了，到头来什么也没落下，那些日子就像是虚度了一样；<br>　　由于想法比较跳脱，倒是总有些稀奇古怪的想法，但总是个念头，也没有什么更深入的思考。<br>　　前些天想了想，总这样也不是个办法，索性建个个人博客，把自己学习的经历、奇怪的想法等等记录在上边，以此作为督促和激励。<br>　　若能遇几个志同道合的朋友，也是人生一大幸事。</p>]]></content:encoded>
       
       
       
       
       <comments>http://example.com/2020/09/16/%E5%89%8D%E8%A8%80/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>http://example.com/2020/09/14/hello-world/</link>
-      <guid>http://example.com/2020/09/14/hello-world/</guid>
-      <pubDate>Mon, 14 Sep 2020 07:25:53 GMT</pubDate>
-      
-        
-        
-      <description>&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content:encoded>
-      
-      
-      
-      
-      <comments>http://example.com/2020/09/14/hello-world/#disqus_thread</comments>
       
     </item>
     
